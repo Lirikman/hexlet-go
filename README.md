@@ -1,1 +1,1 @@
-My first project on GO
+Мой проект на Go
