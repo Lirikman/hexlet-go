@@ -9,4 +9,5 @@ func main() {
 	red := color.New(color.FgRed)
 	boldRed := red.Add(color.Bold)
 	boldRed.Println(greeting.Hello())
+	color.Magenta("Hello Hexlet!")
 	}
